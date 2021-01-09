@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\786966aef8203065654001b36e4727d6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\0a95ec0fe583f48466f2effba6b9d986\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\eac164695b68641228895b3b69b11fac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\835756a5cc55474495dc21c4150b32f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3822241dcd4dc863ff031d9f56466519\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\590a5940d86870a9c761b4c0233ca6bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3558176e738349b21ddc22d5fc8fc0c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\aec6dd4030f1c7333626aeddbee5c992\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1dc630ac9765c6753b980667a3b6e544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\ec01aa30aad7df90dc1ef0d353d67d11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\bd92b67e6195d786e01751a764533370\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\8a84a03b2302d937800c59541e223039\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c1540ae8864f0031b399fbefbfa01d50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a6881b6f9fc825f811cccdfd75e44234\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\778d7994d26a58d4291ed7bb82348044\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\965cff7b79a049238f032086b030b6e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e25605d7682eedeab3f0155ab2af0a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\45a493023203490ab5c79694bdc9c04b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c2039b120ea7967371ac86302643ee69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\5cfbf8ead3ff684d6bb71a970aa0d5fd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\006d2bdc8fd45fc405c29ab8a10418a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c8d151484bedf5addc32b851106f3c9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e93feff3dcfeb61b3cf7f923cef5702\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\77c77d9edb14103ac69e22ac56613217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\01b38084d004ce9a75d363445fe61247\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a2806536b670ec0835e0d6a66f6749b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\fd7d06b216efa7867ea44a100656c31b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\9a3f108522d5ca76b00c9421425816c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\92e430490666bed7ac179040bd8f97e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1b2f1b9aefe6e5f06f3ed78e52d4317b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:5:22-63
+application
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\786966aef8203065654001b36e4727d6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\786966aef8203065654001b36e4727d6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\835756a5cc55474495dc21c4150b32f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\835756a5cc55474495dc21c4150b32f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\5cfbf8ead3ff684d6bb71a970aa0d5fd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\5cfbf8ead3ff684d6bb71a970aa0d5fd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.azhar.dzikir.MainActivity
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\786966aef8203065654001b36e4727d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\786966aef8203065654001b36e4727d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\0a95ec0fe583f48466f2effba6b9d986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\0a95ec0fe583f48466f2effba6b9d986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\eac164695b68641228895b3b69b11fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\eac164695b68641228895b3b69b11fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\835756a5cc55474495dc21c4150b32f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\835756a5cc55474495dc21c4150b32f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3822241dcd4dc863ff031d9f56466519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3822241dcd4dc863ff031d9f56466519\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\590a5940d86870a9c761b4c0233ca6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\590a5940d86870a9c761b4c0233ca6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3558176e738349b21ddc22d5fc8fc0c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3558176e738349b21ddc22d5fc8fc0c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\aec6dd4030f1c7333626aeddbee5c992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\aec6dd4030f1c7333626aeddbee5c992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1dc630ac9765c6753b980667a3b6e544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1dc630ac9765c6753b980667a3b6e544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\ec01aa30aad7df90dc1ef0d353d67d11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\ec01aa30aad7df90dc1ef0d353d67d11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\bd92b67e6195d786e01751a764533370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\bd92b67e6195d786e01751a764533370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\8a84a03b2302d937800c59541e223039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\8a84a03b2302d937800c59541e223039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c1540ae8864f0031b399fbefbfa01d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c1540ae8864f0031b399fbefbfa01d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a6881b6f9fc825f811cccdfd75e44234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a6881b6f9fc825f811cccdfd75e44234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\778d7994d26a58d4291ed7bb82348044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\778d7994d26a58d4291ed7bb82348044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\965cff7b79a049238f032086b030b6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\965cff7b79a049238f032086b030b6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e25605d7682eedeab3f0155ab2af0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e25605d7682eedeab3f0155ab2af0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\45a493023203490ab5c79694bdc9c04b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\45a493023203490ab5c79694bdc9c04b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c2039b120ea7967371ac86302643ee69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c2039b120ea7967371ac86302643ee69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\3c1509d8445987ca2a3bb7c880b0eb66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\5cfbf8ead3ff684d6bb71a970aa0d5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\5cfbf8ead3ff684d6bb71a970aa0d5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\006d2bdc8fd45fc405c29ab8a10418a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\006d2bdc8fd45fc405c29ab8a10418a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c8d151484bedf5addc32b851106f3c9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\c8d151484bedf5addc32b851106f3c9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e93feff3dcfeb61b3cf7f923cef5702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1e93feff3dcfeb61b3cf7f923cef5702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\77c77d9edb14103ac69e22ac56613217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\77c77d9edb14103ac69e22ac56613217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\01b38084d004ce9a75d363445fe61247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\01b38084d004ce9a75d363445fe61247\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a2806536b670ec0835e0d6a66f6749b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\a2806536b670ec0835e0d6a66f6749b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\fd7d06b216efa7867ea44a100656c31b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\fd7d06b216efa7867ea44a100656c31b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\9a3f108522d5ca76b00c9421425816c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\9a3f108522d5ca76b00c9421425816c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\92e430490666bed7ac179040bd8f97e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\92e430490666bed7ac179040bd8f97e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1b2f1b9aefe6e5f06f3ed78e52d4317b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\abib\.gradle\caches\transforms-2\files-2.1\1b2f1b9aefe6e5f06f3ed78e52d4317b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dzikir-Android-master\Dzikir-Android-master\DzikirApp\app\src\main\AndroidManifest.xml
